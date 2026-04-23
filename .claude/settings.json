@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "fluxa-ai-wallet-remote": {
+      "command": "npx",
+      "args": [
+        "mcp-remote",
+        "https://mcp-remote.fluxapay.xyz/mcp",
+        "--header",
+        "Authorization: Basic YmY1ZjU5NjYtZTc1NC00ZGY5LWJiNzQtMjUzYmM4NWQzOWMxOmIxYTE5Mzc2MjQzY2EzOGZhNjE1YTcxNTA4YWJkM2M5YzUzNzY2NjYzMDdlYmJlNTVkNzA3ZGFjMmRlNWRjYTM="
+      ]
+    }
+  }
+}
